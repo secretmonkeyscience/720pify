@@ -1,0 +1,1 @@
+(function(){window.resizeTo(1280, 720)})();
